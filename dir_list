@@ -1,4 +1,4 @@
-default /Volumes/DISK C/target
-project /Volumes/DISK D/target2
-psd /Volumes/MY PSD/target3
+default /Volumes/Mac PSD/Work/travel
+project /Volumes/Mac PSD/Projects
+work /Volumes/Mac PSD/work
 
