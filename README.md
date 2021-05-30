@@ -1,6 +1,7 @@
 # Travel
 ## Fast travelling tool in the Mac without unnecessary global variables
 Add a file 'list_dir' with preset path to the folder 'travel'. The first tag should be 'default'.
+The cache will be automatically created to accelerate the searching.
 ```
 default Volumes/Portable Disk E/myprograms
 work Volumes/Portable Disk F/mywork
