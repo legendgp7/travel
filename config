@@ -1,3 +1,4 @@
-default /Volumes/Mac PSD/Projects
-project /Volumes/Mac PSD/Work
-projects /Volumes/Mac PSD/Work/travel
+#!/bin/bash
+
+typeset cache_dir="${abs_dir}cache"
+typeset list_dir="${abs_dir}dir_list"
