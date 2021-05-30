@@ -17,3 +17,16 @@ Add the following shell script to '\~/.zshrc' or '\~/.bashrc'
 export gptravel_abs="/Volumes/Portable Disk E/myprograms/"  
 alias goto='source ${gptravel_abs}travel/goto.sh'  
 ```
+### How to use?
+Change directory to a default path:
+```
+goto
+```
+or
+```
+goto default
+```
+Change directory to a path with a preset tag:
+```
+goto work
+```
