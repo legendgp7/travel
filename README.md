@@ -1,5 +1,5 @@
 # Travel
-Fast travelling tool in the Mac without unnecessary global variables.
+Fast travelling tool in the Mac without unnecessary global variables.  
 Add a file 'list_dir' with preset path to the folder 'travel'. The first tag should be 'default'.
 ```
 default Volumes/Portable Disk E/myprograms
