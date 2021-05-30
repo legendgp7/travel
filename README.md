@@ -1,6 +1,6 @@
 # travel
 Travel fast in my Mac  
-Add a list_dir file with preset path.  
+Add a file 'list_dir' with preset path to the folder 'travel'.  
 Add the following shell script to '\~/.zshrc' or '\~/.bashrc'  
 
 ```shell
