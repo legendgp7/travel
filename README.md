@@ -1,6 +1,14 @@
 # travel
 Travel fast in my Mac  
-Add a file 'list_dir' with preset path to the folder 'travel'.  
+Add a file 'list_dir' with preset path to the folder 'travel'. The first tag should be 'default'.
+```
+default Volumes/Portable Disk E/myprograms
+work Volumes/Portable Disk F/mywork
+...
+
+```
+
+
 Add the following shell script to '\~/.zshrc' or '\~/.bashrc'  
 
 ```shell
